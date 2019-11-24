@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_me"
+        android:layout_width="match_parent"
+        android:background="@color/tool_bar_title"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme">
+        <Button
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="right"
+            android:gravity="center"
+            android:background="@drawable/setting_button"
+            android:id="@+id/setting_button"
+            android:layout_width="40dp"
+            android:layout_height="25dp"
+            />
+
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="@string/movie"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/changeLanguages"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:textSize="17sp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="left"
+            android:text="@string/lang"
+            android:textColor="@android:color/white" />
+
+
+
+    </android.support.v7.widget.Toolbar>
+
+</LinearLayout>

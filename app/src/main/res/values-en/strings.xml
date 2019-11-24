@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieKotlin</string>
+
+    <string name="no_connection">SomeThing Went Wrong Please Check Connection and Try Again</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="setting">setting</string>
+    <string name="movie">IMDb</string>
+    <string name="up_coming">Upcoming</string>
+    <string name="lang">English</string>
+    <string name="latest">Latest</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="no_any_values">Sorry There is no any Latest Movie Right Now</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailors">Trailors</string>
+    <string name="no_reviews">Sorry There is no Reviews</string>
+    <string name="no_favourite">sorry There is no any Favourite Movie</string>
+    <string name="favourite">Favourite</string>
+    <string name="loadSuccess">this Movie Has Been Add To Favourites</string>
+    <string name="home">HomePage</string>
+    <string name="error_happend">Error Happen</string>
+    <string name="remove_success">This Movie Has been Removed From Favourite</string>
+    <string name="settingMovies">Setting</string>
+    <string name="ascendingText">Sort Movies Ascending</string>
+    <string name="descendingText">Sort Movies Descending</string>
+
+</resources>

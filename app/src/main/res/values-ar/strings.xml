@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أفلام</string>
+
+    <string name="no_connection">هناك مشكلة فى إسترجاع البيانات تحقق من الإتصال بالإنترنت وحاول مرة أخرى</string>
+    <string name="top_rated">الأعلى تقييم</string>
+    <string name="popular">أكثر شهرة</string>
+    <string name="setting">الإعدادات</string>
+    <string name="movie">أفلامى</string>
+    <string name="up_coming">القادم</string>
+    <string name="latest">المضاف حديثا</string>
+    <string name="lang">العربية</string>
+    <string name="now_playing">يتم عرضه الأن</string>
+    <string name="no_any_values">عفوا لايوجد أى أفلام مضافة حديثا </string>
+    <string name="reviews">تقييم المستخدمين</string>
+    <string name="trailors">إعلان الفيلم</string>
+    <string name="no_reviews">عفواً لايوجد أى تقييم</string>
+    <string name="no_favourite">لايوجد أى أفلام مفضلة لديك</string>
+    <string name="favourite">الأفلام المفضلة</string>
+    <string name="loadSuccess">تمت إضافة الفيلم إلى القائمة المفضلة</string>
+    <string name="home">الرئيسية</string>
+    <string name="error_happend">حدث خطأ حاول مرة أخرى</string>
+    <string name="remove_success">تم حذف هذا الفيلم من القائمة المفضلة</string>
+    <string name="settingMovies">الأعدادات</string>
+    <string name="ascendingText">ترتيب الأفلام تصاعدياً</string>
+    <string name="descendingText">ترتيب الأفلام تنازلياً</string>
+
+
+</resources>
